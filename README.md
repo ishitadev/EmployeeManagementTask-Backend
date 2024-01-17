@@ -37,4 +37,9 @@ This project is a robust .NET Core API designed to streamline employee managemen
     dotnet build
     dotnet run
     ````
-The API is accessible at ```https://localhost:7134```.
+2. The API is accessible at ```https://localhost:7134```.
+
+Sql to create the database and table is provided in the below link.
+
+> [Script File](https://drive.google.com/file/d/1lu8u5Vufco_2HpzHXG6dYv6KKZVri830/view?usp=drive_link)
+
